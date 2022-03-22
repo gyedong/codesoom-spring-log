@@ -22,7 +22,6 @@ Feedback은 과거에 대한 지적이 중점적이지만 Feedforward는 지적�
 나의 실력과 작업의 난이도는 늘 변화합니다. 그래서 내가 어떤 상태인지 늘 관찰하고 그에 맞는 적절한 계획을 세워야 합니다. 우리는 회고를 통해 메타인지를 향상하고 스스로 성장할 수 있는 힘을 만드는 것에 집중합니다.
 
 ## 트레이너
-
 - [코딩의 신 아샬](https://www.youtube.com/ahastudio)
 - [기계인간 이종립](https://johngrib.github.io/)
 - [한윤석](https://hannut91.github.io/)

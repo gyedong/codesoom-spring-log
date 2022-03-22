@@ -3,3 +3,6 @@
 ## 코드숨 소개
 - [소개](https://github.com/gyedong/codesoom-spring-log/blob/main/codesoom/about.md)
 - [커리큘럼](https://github.com/gyedong/codesoom-spring-log/blob/main/codesoom/curriculum.md)
+
+## 회고
+- [1주차(2022.3.20. ~ 2022.3.26.)](https://github.com/gyedong/codesoom-spring-log/blob/main/retrospectives/1th_week.md)

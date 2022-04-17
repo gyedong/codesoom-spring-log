@@ -9,8 +9,10 @@
 - [1주차(2022/03/21 ~ 03/26)](https://github.com/gyedong/codesoom-spring-log/blob/main/retrospectives/1st_week.md)
 - [2주차(2022/03/27 ~ 04/02)](https://github.com/gyedong/codesoom-spring-log/blob/main/retrospectives/2nd_week.md)
 - [3주차(2022/04/03 ~ 04/09)](https://github.com/gyedong/codesoom-spring-log/blob/main/retrospectives/3rd_week.md)
+- [4주차(2022/04/10 ~ 04/16)](https://github.com/gyedong/codesoom-spring-log/blob/main/retrospectives/4th_week.md)
 
 ## 과제
 - [1주차 과제: ToDo REST API 만들기](https://github.com/gyedong/spring-week1-assignment-1)
 - [2주차 과제: 스프링 웹으로 ToDo REST API 만들기](https://github.com/gyedong/spring-week2-assignment-1)
 - [3주차 과제: 테스트 작성하기](https://github.com/gyedong/spring-week3-assignment-1)
+- [4주차 과제: 고양이 장난감가게 만들기](https://github.com/gyedong/spring-week4-assignment-1)

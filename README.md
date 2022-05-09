@@ -12,6 +12,7 @@
 - [4주차(2022/04/10 ~ 04/16)](https://github.com/gyedong/codesoom-spring-log/blob/main/retrospectives/4th_week.md)
 - [5주차(2022/04/17 ~ 04/23)](https://github.com/gyedong/codesoom-spring-log/blob/main/retrospectives/5th_week.md)
 - [6주차(2022/04/24 ~ 04/30)](https://github.com/gyedong/codesoom-spring-log/blob/main/retrospectives/6th_week.md)
+- [7주차(2022/05/01 ~ 05/07)](https://github.com/gyedong/codesoom-spring-log/blob/main/retrospectives/7th_week.md)
 
 ## 과제
 - [1주차 과제: ToDo REST API 만들기](https://github.com/gyedong/spring-week1-assignment-1)
@@ -20,3 +21,4 @@
 - [4주차 과제: 고양이 장난감가게 만들기](https://github.com/gyedong/spring-week4-assignment-1)
 - [5주차 과제: 고양이 장난감가게 만들기 - 심화](https://github.com/gyedong/spring-week5-assignment-1)
 - [6주차 과제: 로그인 만들기](https://github.com/gyedong/spring-week6-assignment-1)
+- [7주차 과제: 인가(Authorization) 구현하기](https://github.com/gyedong/spring-week7-assignment-1)
